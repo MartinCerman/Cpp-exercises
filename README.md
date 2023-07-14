@@ -1,0 +1,1 @@
+This repository contains simple C++ projects. File std_lib_facilities.h is Bjarne Stroustrup's include file for C++ learners.
